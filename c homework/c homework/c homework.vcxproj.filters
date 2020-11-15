@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="猜名次.cpp">
+    <ClCompile Include="求阶乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

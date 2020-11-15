@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A1C53BDF-1061-410D-9DAF-30C7434D393E}</ProjectGuid>
-    <RootNamespace>My202011143</RootNamespace>
+    <ProjectGuid>{1BB615B2-FD8E-46F5-96E1-4F850BB93034}</ProjectGuid>
+    <RootNamespace>chomework2</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="猜名次.cpp" />
+    <ClCompile Include="统计一个整数二进制表达式中1的个数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
